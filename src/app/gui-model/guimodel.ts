@@ -13,7 +13,6 @@ export class GuiModel {
                     "title": "Friend",
                     "url": "/friend",
                     "formFieldList": [
-                     
                         {
                             "id": "familyName",
                             "type": "text",
